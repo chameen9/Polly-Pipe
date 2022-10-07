@@ -1,0 +1,15 @@
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\bin\Debug\Polly Pipe.exe.config
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\bin\Debug\Polly Pipe.exe
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\bin\Debug\Polly Pipe.pdb
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly Pipe.csprojResolveAssemblyReference.cache
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.Properties.Resources.resources
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly Pipe.csproj.GenerateResource.Cache
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly Pipe.exe
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly Pipe.pdb
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.FrmLogin.resources
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.FrmMain.resources
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.FrmEmpMng.resources
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.FrmCusMng.resources
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.FrmInsMng.resources
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.FrmCatMng.resources
+C:\Pearson BTEC HND\Unit4 Database\System\Polly Pipe\Polly Pipe\obj\Debug\Polly_Pipe.FrmEqMng.resources
